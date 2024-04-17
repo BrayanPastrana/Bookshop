@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Git y GitHub desde cero",
+        "author": "",
+        "price": 750.76,
+        "img": "https://m.media-amazon.com/images/I/418hD4geRzL._SY445_SX342_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Aprende a programar",
+        "author": "",
+        "price": 450,
+        "img": "https://m.media-amazon.com/images/I/41dVA-qmeuL._SY445_SX342_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Código limpio",
+        "author": "",
+        "price": 430.32,
+        "img": "https://m.media-amazon.com/images/I/61orja1+P7L._SY466_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Porsche 911",
+        "author": "",
+        "price": 276.09,
+        "img": "https://m.media-amazon.com/images/I/31E2nLQym+L._SX342_SY445_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 5,
+        "name": "Hacking",
+        "author": "",
+        "price": 830,
+        "img": "https://m.media-amazon.com/images/I/61jRbxk5-kL._SY466_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 6,
+        "name": "El libro negro del programador",
+        "author": "",
+        "price": 1200,
+        "img": "https://m.media-amazon.com/images/I/31xJRIqIAyL._SY445_SX342_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 7,
+        "name": "Python",
+        "author": "",
+        "price": 180,
+        "img": "https://m.media-amazon.com/images/I/4172yW-H4JL._SY445_SX342_.jpg",
+        "quantity": 1
+    },
+    {
+        "id": 8,
+        "name": "Java",
+        "author": "",
+        "price": 279.00,
+        "img": "https://m.media-amazon.com/images/I/51RjDx1NzlL._SX342_SY445_.jpg",
+        "quantity": 1
+    }
+]
